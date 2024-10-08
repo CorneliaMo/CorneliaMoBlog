@@ -5,7 +5,7 @@
 # Site
 title: CorneliaMo Blog
 subtitle: ''
-description: ''
+description: 'CorneliaMo Blog'
 keywords:
 author: CorneliaMo
 language: zh
@@ -102,3 +102,12 @@ theme: volantis
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+# MathJax
+math:
+  engine: 'mathjax'
+  mathjax:
+    src: https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML   
+
+mathjax:
+  enable: true
