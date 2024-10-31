@@ -2,6 +2,7 @@
 title: wordpress初建站
 date: 2024-05-08 12:23:24
 tags:
+  - 杂谈
 author: Cornelia
 ---
 # wordpress初建站
